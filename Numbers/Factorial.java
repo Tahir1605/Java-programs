@@ -12,5 +12,6 @@ class Factorial
               f = f*i;
            }
          System.out.println("Factorial = "+f);
+         obj.close();
       } 
   }
