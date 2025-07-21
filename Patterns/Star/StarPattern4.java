@@ -16,3 +16,10 @@ class StarPattern4
             }
       }
   }
+  /* output:
+        * 
+      * * 
+    * * *
+  * * * *
+* * * * *
+*/

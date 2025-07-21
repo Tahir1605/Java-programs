@@ -16,3 +16,10 @@ class StarPattern8
              }
        }
   }
+/* output:
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
+ */

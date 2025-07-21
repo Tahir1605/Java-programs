@@ -12,3 +12,11 @@ class StarPattern2
             }
       }
   }
+
+/* output:
+   * 
+   * * 
+   * * * 
+   * * * * 
+   * * * * *
+ */

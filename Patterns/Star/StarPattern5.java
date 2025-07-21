@@ -16,3 +16,11 @@ class StarPattern5
             }
       }
   }
+
+  /* output:
+    * * * * *
+      * * * *
+        * * *
+          * *
+            *
+*/
