@@ -1,3 +1,4 @@
+// This is also called Peterson Number term
 import java.util.Scanner;
 class StrongNumberTerm
   {
