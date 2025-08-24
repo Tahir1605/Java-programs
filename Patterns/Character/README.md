@@ -1,132 +1,136 @@
-1>
+<h1 align="center">✨ Character Patterns ✨</h1>
 
-A
-A A
-A A A
-A A A A
-A A A A A
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=500&lines=Creative+Character+Patterns;Made+with+Java;Stylish+and+Fun!" />
+</p>
 
-2>
-  
-AAAAA
- AAAA
-  AAA
-   AA
-    A
-  
-3>
+---
 
-    A
-   AAA
+## 🔡 Pattern Collection
+
+```diff
+
++ Pattern 1
+
+  A
+  A A
+  A A A
+  A A A A
+  A A A A A
+
++ Pattern 2
+
   AAAAA
- AAAAAAA
-AAAAAAAAA
+   AAAA
+    AAA
+     AA
+      A
 
-4>
++ Pattern 3
 
-AAAAAAAAA
- AAAAAAA
+      A
+     AAA
+    AAAAA
+   AAAAAAA
+  AAAAAAAAA
+
++ Pattern 4
+
+  AAAAAAAAA
+   AAAAAAA
+    AAAAA
+     AAA
+      A
+
++ Pattern 5
+
+      A
+     AAA
+    AAAAA
+   AAAAAAA
+  AAAAAAAAA
+   AAAAAAA
+    AAAAA
+     AAA
+      A
+
++ Pattern 6
+
+  A
+  B B
+  C C C
+  D D D D
+  E E E E E
+
++ Pattern 7
+
   AAAAA
-   AAA
-    A
+   BBBB
+    CCC
+     DD
+      E
 
-5>
++ Pattern 8
 
-    A
-   AAA
-  AAAAA
- AAAAAAA
-AAAAAAAAA
- AAAAAAA
-  AAAAA
-   AAA
-    A
+      A
+     BBB
+    CCCCC
+   DDDDDDD
+  EEEEEEEEE
 
-6>
++ Pattern 9
 
-A
-B B
-C C C
-D D D D
-E E E E E
+  AAAAAAAAA
+   BBBBBBB
+    CCCCC
+     DDD
+      E
 
-7>
++ Pattern 10
 
-AAAAA
- BBBB
-  CCC
-   DD
-    E
+  E
+  D D
+  C C C
+  B B B B
+  A A A A A
 
-8>
++ Pattern 11
 
-    A
-   BBB
-  CCCCC
- DDDDDDD
-EEEEEEEEE
+  A
+  C C
+  E E E
+  G G G G
+  I I I I I
 
-9>
++ Pattern 12
 
-AAAAAAAAA
- BBBBBBB
-  CCCCC
-   DDD
-    E
+  A
+  B B
+  A A A
+  B B B B
+  A A A A A
 
-10>
++ Pattern 13
 
-E
-D D
-C C C
-B B B B
-A A A A A
+  ZZZZZ
+   OOOO
+    ZZZ
+     OO
+      Z
 
-11>
++ Pattern 14
 
-A
-C C
-E E E
-G G G G
-I I I I I
+  A
+  A B
+  A B C
+  A B C D
+  A B C D E
 
-12>
++ Pattern 15
 
-A
-B B
-A A A
-B B B B
-A A A A A
-
-13>
-
-ZZZZZ
- OOOO
-  ZZZ
-   OO
-    Z
-
-14>
-
-A
-A B
-A B C
-A B C D
-A B C D E
-
-
-15>
-
-ABCDE
- ABCD
-  ABC
-   AB
-    A
-
-
-
- 
-
-
-
+  ABCDE
+   ABCD
+    ABC
+     AB
+      A
 
