@@ -33,6 +33,7 @@ This folder contains beginner-friendly **Java programs** covering:
 | 📂 File Name | 📝 Description |
 |--------------|----------------|
 | [AreaOfACircle.java](./AreaOfACircle.java) | Calculates the area of a circle. |
+| [BinaryToDecimal.java](./BinaryToDecimal.java) | Calculates the area of a circle. |
 | [CoPrime.java](./CoPrime.java) | Checks whether two numbers are co-prime. |
 | [ElegibleForVote.java](./ElegibleForVote.java) | Checks if a person is eligible to vote. |
 | [EvenOdd.java](./EvenOdd.java) | Determines whether a number is even or odd. |
