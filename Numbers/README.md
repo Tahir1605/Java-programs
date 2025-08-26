@@ -37,13 +37,18 @@ This folder contains **Java programs** that deal with various **number propertie
 | [ArmstrongTerm.java](./ArmstrongTerm.java) | Prints Armstrong numbers up to a term. |
 | [AutomorphicNumber.java](./AutomorphicNumber.java) | Checks if a number is automorphic. |
 | [AutomorphicNumberTerm.java](./AutomorphicNumberTerm.java) | Prints automorphic numbers up to a term. |
+| [DuckNumber.java](./DuckNumber.java) | Checks if a number is duck (contains zero but not starting with zero). |
+| [DuckNumberTerm.java](./DuckNumberTerm.java) | Prints duck numbers up to a term. |
 | [Factorial.java](./Factorial.java) | Calculates factorial of a number. |
+| [Factorization.java](./Factorization.java) | Performs prime factorization of a number. |
 | [FibonacciSeries.java](./FibonacciSeries.java) | Generates Fibonacci series. |
 | [GcdOfTwoNumber.java](./GcdOfTwoNumber.java) | Finds GCD of two numbers. |
 | [HappyNumber.java](./HappyNumber.java) | Checks if a number is happy. |
 | [HappyNumberTerm.java](./HappyNumberTerm.java) | Prints happy numbers up to a term. |
 | [HarshadNumber.java](./HarshadNumber.java) | Checks if a number is Harshad (Niven). |
 | [HarshadNumberTerm.java](./HarshadNumberTerm.java) | Prints Harshad numbers up to a term. |
+| [KaprekarNumber.java](./KaprekarNumber.java) | Checks if a number is Kaprekar. |
+| [KaprekarNumberTerm.java](./KaprekarNumberTerm.java) | Prints Kaprekar numbers up to a term. |
 | [MagicNumber.java](./MagicNumber.java) | Checks whether a number is magic. |
 | [MagicNumberTerm.java](./MagicNumberTerm.java) | Prints magic numbers up to a term. |
 | [NeonNumber.java](./NeonNumber.java) | Checks if a number is neon. |
@@ -62,6 +67,7 @@ This folder contains **Java programs** that deal with various **number propertie
 | [StrongNumber.java](./StrongNumber.java) | Checks if a number is strong. |
 | [StrongNumberTerm.java](./StrongNumberTerm.java) | Prints strong numbers up to a term. |
 | [SumOfDigit.java](./SumOfDigit.java) | Calculates sum of digits of a number. |
+
 
 ---
 
