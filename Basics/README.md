@@ -33,8 +33,11 @@ This folder contains beginner-friendly **Java programs** covering:
 | 📂 File Name | 📝 Description |
 |--------------|----------------|
 | [AreaOfACircle.java](./AreaOfACircle.java) | Calculates the area of a circle. |
-| [BinaryToDecimal.java](./BinaryToDecimal.java) | Calculates the area of a circle. |
+| [BinaryToDecimal.java](./BinaryToDecimal.java) | Convert Binary number into decimal. |
 | [CoPrime.java](./CoPrime.java) | Checks whether two numbers are co-prime. |
+| [DecimalToBinary.java](./DecimalToBinary.java) |  Convert Decimal number into Binary. |
+| [DecimalToHex.java](./DecimalToHex.java) |  Convert Decimal number into Hex. |
+| [DecimalToOctal.java](./DecimalToOctal.java) |  Convert Decimal number into Octal. |
 | [ElegibleForVote.java](./ElegibleForVote.java) | Checks if a person is eligible to vote. |
 | [EvenOdd.java](./EvenOdd.java) | Determines whether a number is even or odd. |
 | [LargestAmongThree.java](./LargestAmongThree.java) | Finds the largest number among three numbers. |
