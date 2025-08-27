@@ -134,3 +134,53 @@
      AB
       A
 
+ + Pattern 16
+
+     A
+    ABC
+   ABCDE
+  ABCDEFG
+ ABCDEFGHI
+
+ + Pattern 17
+
+     A    
+    ABC   
+   ABCDE  
+  ABCDEFG 
+ ABCDEFGHI
+ ABCDEFGHI
+  ABCDEFG
+   ABCDE
+    ABC
+     A
+
+ + Pattern 18
+ 
+A        A
+AB      AB
+ABC    ABC
+ABCD  ABCD
+ABCDEABCDE
+ABCD  ABCD
+ABC    ABC
+AB      AB
+A        A
+
+ + Pattern 19
+
+  E 
+  E D
+  E D C
+  E D C B
+  E D C B A  
+
+
+ + Pattern 20
+
+   EDCBA
+    EDCB
+     EDC
+      ED
+       E
+
