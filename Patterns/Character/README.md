@@ -157,15 +157,15 @@
 
  + Pattern 18
  
-A        A
-AB      AB
-ABC    ABC
-ABCD  ABCD
-ABCDEABCDE
-ABCD  ABCD
-ABC    ABC
-AB      AB
-A        A
+  A        A
+  AB      AB
+  ABC    ABC
+  ABCD  ABCD
+  ABCDEABCDE
+  ABCD  ABCD
+  ABC    ABC
+  AB      AB
+  A        A
 
  + Pattern 19
 
