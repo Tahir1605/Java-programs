@@ -10,5 +10,6 @@ class AreaOfACircle
          area = 3.14*radius*radius;
          circamfarence = 2*3.14*radius;
          System.out.println("Area of a circular is "+area+" and circamfarence is "+circamfarence);
+         obj.close();
       }
   }

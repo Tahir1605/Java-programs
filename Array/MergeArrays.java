@@ -46,5 +46,7 @@ class MergeArrays {
         for (int i = 0; i < merged.length; i++) {
             System.out.print(merged[i] + " ");
         }
+
+        sc.close();
     }
 }

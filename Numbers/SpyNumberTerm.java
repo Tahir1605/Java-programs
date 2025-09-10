@@ -33,5 +33,7 @@ class SpyNumberTerm
                     System.out.println(i);
                  }
             }
+
+            obj.close();
       }
   }

@@ -16,5 +16,7 @@ class LargestBetweenTwo
             {
                System.out.println("The large number is "+second);
             }
+
+         obj.close();
        }
   }

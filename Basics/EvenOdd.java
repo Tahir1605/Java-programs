@@ -14,5 +14,7 @@ class EvenOdd
            {
               System.out.println("This number is Odd");
            }
+
+        obj.close();
       }
   }

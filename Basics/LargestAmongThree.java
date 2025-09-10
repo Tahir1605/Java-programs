@@ -29,5 +29,7 @@ class LargestAmongThree
             {
                System.out.println("All number is equal");
             }
+
+         obj.close();
        }
   }

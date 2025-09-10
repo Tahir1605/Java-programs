@@ -26,5 +26,7 @@ class HappyNumber
            {
               System.out.println("Not happy number");
            }
+
+           obj.close();
       }
   }

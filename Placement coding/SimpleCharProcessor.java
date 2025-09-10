@@ -9,6 +9,7 @@ public class SimpleCharProcessor
 
         if (input.length() == 0) {
             System.out.println("Invalid input");
+            sc.close();
             return;
         }
 
@@ -73,5 +74,7 @@ public class SimpleCharProcessor
                 }
             }
         }
+
+        sc.close();
     }
 }

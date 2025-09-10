@@ -28,5 +28,7 @@ class KthLargestElement
                {
                    System.out.println(a[i]+"");
                }
+
+            obj.close();
         }
    }

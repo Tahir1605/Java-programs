@@ -26,5 +26,7 @@ class DuckNumber
                 {
                    System.out.println("It is not a Duck number");
                 }
+
+               obj.close();
           }
   }

@@ -26,5 +26,7 @@ class DuckNumberTerm
                           System.out.println(i);
                        }
                  }
+
+               obj.close();
           }
   }

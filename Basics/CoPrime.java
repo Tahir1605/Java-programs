@@ -35,5 +35,7 @@ class CoPrime
           {
              System.out.println("not co prime");
           }
+        
+        obj.close();
       }
  }

@@ -16,5 +16,6 @@ class ElegibleForVote
             {
                System.out.println("You are eligible for vote");
             }
+         obj.close();
        }
   }

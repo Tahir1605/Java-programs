@@ -43,5 +43,7 @@ public class BudgetTracker {
         for (int i = 0; i < count; i++) {
             System.out.println(materials[i] + " : " + spent[i]);
         }
+
+        sc.close();
     }
 }

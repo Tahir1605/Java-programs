@@ -36,5 +36,7 @@ class HappyNumberTerm
                      System.out.println(i);
                   }
              }
+
+             obj.close();
       }
   }

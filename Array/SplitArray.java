@@ -47,5 +47,7 @@ class SplitArray {
         for (int i = 0; i < secondHalf.length; i++) {
             System.out.print(secondHalf[i] + " ");
         }
+
+        sc.close();
     }
 }

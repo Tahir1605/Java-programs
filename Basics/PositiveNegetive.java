@@ -18,5 +18,6 @@ class PositiveNegetive
             {
               System.out.println("It is a Zero");
             }
+          obj.close();
        }
   }
