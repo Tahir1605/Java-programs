@@ -1,20 +1,20 @@
 import java.util.Scanner;
-class Power
+class SumOfN
   {
-     static int power(int n)
+     static int sum(int n)
        {
           if(n == 0)
             {
-                return 1;
+                return 0;
             }
-          return 2 * power(n-1);
+          return n + sum(n-1);
        }
      public static void main(String[] args)
        {
          Scanner obj = new Scanner(System.in);
-         System.out.print("Enter a number : ");
+         System.out.print("Enter the term : ");
          int x = obj.nextInt();
-         int result = power(x);
+         int result = sum(x);
          System.out.println(result);
          obj.close();
        }
