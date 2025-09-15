@@ -30,10 +30,17 @@ This folder contains **Java programs** demonstrating the power of **recursion** 
 
 | 📂 File Name | 📝 Description |
 |--------------|----------------|
-| [FactorialUsingRecursion.java](./FactorialUsingRecursion.java) | Calculates factorial of a number using recursion. |
-| [FibonacciUsingRecursion.java](./FibonacciUsingRecursion.java) | Generates Fibonacci series using recursion. |
-| [FirstRecursion.java](./FirstRecursion.java) | Demonstrates a basic recursion example. |
-| [Power.java](./Power.java) | Calculates power of a number using recursion. |
+| [BinarySearch.java](./BinarySearch.java) | Binary search. |
+| [Factorial.java](./Factorial.java) | Calculate factorial of a number. |
+| [Fibonacci.java](./Fibonacci.java) | Print nth term Fibonacci series. |
+| [Gcd.java](./Gcd.java) | Calculate Gcd of two numbers.|
+| [Lcm.java](./Lcm.java) | Calculate Lcm of two numbers.|
+| [LinearSearch.java](./LinearSearch.java) | Linear Search |
+| [Power.java](./Power.java) | Calculate 2 power n |
+| [Recursion01.java](./Recursion01.java) | Print number 1 to 5 |
+| [Recursion02.java](./Recursion02.java) | Print number 5 to 1 |
+| [SortedArray.java](./SortedArray.java) | Check wheather an array is sorted or not |
+| [SumOfN.java](./SumOfN.java) | Calculate Sum of numbers 1 to n |
 
 ---
 
